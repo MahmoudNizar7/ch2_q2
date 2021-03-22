@@ -1,0 +1,12 @@
+.root {
+    -fx-background-color: aquamarine;
+    -fx-font-size: 12pt
+}
+.button {
+    -fx-font-weight: bold;
+    -fx-font-style: normal;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-background-color: #0e2110;
+    -fx-text-fill: white;
+}
